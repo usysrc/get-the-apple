@@ -1,5 +1,5 @@
 # get-the-apple
-a very simple wasm-4 game
+a very simple wasm-4 game where you have to obtain the apple
 
 # how to compile
 
